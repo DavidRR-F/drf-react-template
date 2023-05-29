@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# David Rose-Franklin React Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a preconfigured React template that includes TypeScript, Tailwind CSS, Prettier, ESLint (Google Standard), and Husky. It provides a solid foundation for building React applications with a consistent code style and automated linting/formatting. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Features
+
+- React with TypeScript for type safety and enhanced development experience.
+- Tailwind CSS for rapid UI development and responsive styling.
+- Prettier for automatic code formatting.
+- ESLint with Google Standard configuration for enforcing code quality and style guidelines.
+- Husky for Git hooks to ensure code quality before commits.
+
+## Getting Started
+
+To create a new React application using this template, follow these steps:
+
+1. Ensure that you have Node.js installed on your system.
+
+2. Use the following command to create a new React application based on this template:
+
+```
+npx create-react-app my-app --template drf-react-template
+```
 
 ## Available Scripts
 

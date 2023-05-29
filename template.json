@@ -1,0 +1,5 @@
+{
+  "packageName": "drf-react-template",
+  "templateName": "drf-react-template",
+  "description": "Custom React template with TypeScript, Tailwind CSS, Prettier, ESLint (Google Standard), and Husky."
+}
